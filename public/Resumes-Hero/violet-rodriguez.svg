@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="630" height="840" viewBox="0 0 630 840">
+  <title id="title">Violet Rodriguez resume</title>
+  <rect width="630" height="840" fill="#F4F7F9"/>
+  <rect x="36" y="36" width="558" height="768" fill="#FFFFFF" stroke="#012A4A" stroke-opacity="0.12"/>
+  <rect x="36" y="36" width="8" height="768" fill="#61A5C2"/>
+  <rect x="72" y="64" width="72" height="72" rx="8" fill="#012A4A"/>
+  <text x="108" y="110" text-anchor="middle" fill="#89C2D9" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="600">VR</text>
+  <text x="164" y="94" fill="#012A4A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="26" font-weight="600">Violet Rodriguez</text>
+  <text x="164" y="122" fill="#2A6F97" font-family="ui-monospace, monospace" font-size="13">Sr. Software Engineer ù Northpane Systems</text>
+  <text x="72" y="172" fill="#468FAF" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4">SUMMARY</text>
+  <text x="72" y="196" fill="#012A4A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Full-stack engineer for voice threads and quiet database cutovers.</text>
+  <text x="72" y="216" fill="#012A4A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Maintains Threadwell. Prefers dual-write, then a cut you can reverse.</text>
+  <text x="72" y="252" fill="#468FAF" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4">EXPERIENCE</text>
+  <text x="72" y="278" fill="#012A4A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="600">Northpane Systems</text>
+  <text x="72" y="298" fill="#2A6F97" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">Senior Software Engineer ù 2021  Present</text>
+  <text x="72" y="322" fill="#012A4A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">Zero-downtime Postgres cutover on a 12-node cluster with dual-write.</text>
+  <text x="72" y="340" fill="#012A4A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">Owns the React and AWS path for the customer console.</text>
+  <text x="72" y="372" fill="#012A4A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="600">Helixline</text>
+  <text x="72" y="392" fill="#2A6F97" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">Software Engineer ù 2018  2021</text>
+  <text x="72" y="416" fill="#012A4A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">Chatbot flows for a B2B inbox. Open-sourced Threadwell, still in use.</text>
+  <text x="72" y="448" fill="#012A4A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="600">Threadwell</text>
+  <text x="72" y="468" fill="#2A6F97" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">Maintainer ù 2020  Present</text>
+  <text x="72" y="492" fill="#012A4A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">Open-source conversation runtime. Session layer, not a model zoo.</text>
+  <text x="72" y="532" fill="#468FAF" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4">EDUCATION</text>
+  <text x="72" y="556" fill="#012A4A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">Riverside Polytechnic</text>
+  <text x="72" y="576" fill="#2A6F97" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">B.S. Computer Science ù 2014  2018</text>
+  <text x="72" y="616" fill="#468FAF" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4">SKILLS</text>
+  <text x="72" y="640" fill="#012A4A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">React ù TypeScript ù AWS ù Postgres ù Threadwell</text>
+</svg>
