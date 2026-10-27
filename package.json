@@ -1,0 +1,55 @@
+{
+  "name": "buildmyai",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --port 3000",
+    "build": "next build",
+    "start": "next start --port 3000",
+    "lint": "eslint",
+    "db:generate": "drizzle-kit generate",
+    "db:generate:custom": "drizzle-kit generate --custom",
+    "db:migrate": "drizzle-kit migrate",
+    "db:studio": "drizzle-kit studio",
+    "inngest:dev": "pnpm dlx inngest-cli@latest dev -u http://localhost:3000/api/inngest",
+    "icons": "node scripts/generate-icons.mjs",
+    "test": "node --experimental-strip-types --test lib/voice/tools.test.ts lib/voice/tool-result.test.ts lib/voice/assembly-voices.test.ts lib/auth/safe-next.test.ts lib/auth/account-providers.test.ts lib/supabase/cookie-options.test.ts"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^5.9.1",
+    "@supabase/ssr": "^0.12.7",
+    "@supabase/supabase-js": "^2.116.0",
+    "drizzle-orm": "^0.45.2",
+    "framer-motion": "^13.1.0",
+    "gsap": "^3.15.0",
+    "inngest": "^4.20.0",
+    "lucide-react": "^1.31.0",
+    "next": "16.3.1",
+    "ogl": "^1.0.11",
+    "postgres": "^3.4.9",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "react-hook-form": "^7.89.0",
+    "sharp": "^0.35.4",
+    "unpdf": "^1.8.1",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@fontsource/instrument-sans": "^5.3.0",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "drizzle-kit": "^0.31.10",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.1",
+    "inngest-cli": "^1.45.1",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "inngest-cli"
+    ]
+  }
+}
